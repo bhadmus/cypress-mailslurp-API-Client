@@ -1,4 +1,4 @@
-## Cypress Mailslurp plugin example
+## Cypress Mailslurp API Client example
 ---
 
 ### Library
